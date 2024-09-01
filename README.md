@@ -14,7 +14,7 @@
 
 우선 웹캠을 통해 
 찍은 영상을 딥러닝 처리를 통해 마스크 유무를 확인 후 결과를 서버에 송신합니다. 
-![마스크영상캡처](https://github.com/user-attachments/assets/cf68e213-d22e-41f2-930b-f0d7e75eba8f.JPG)
+![aaa](https://github.com/user-attachments/assets/cd00b0c5-3606-46e9-87d9-82c962385e24)
 
 딥러닝 작업은 실시간 객체 인식 프레임워크로 유명한 YOLO-Darknet를 통해 수행하였습니다.
 
